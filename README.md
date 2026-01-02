@@ -6,7 +6,7 @@ A ComfyUI workflow designed for creating animated GIFs and videos using iterativ
 
 Here are some example outputs generated with this workflow:
 
-![Elaphant Elegance](examples/Elaphant_Elagance.gif)
+![Elaphant Elegance](Feedback_Gif_Video_Maker_V1.0/Examples/Elaphant_Elagance.gif)
 
 ![Horseman of Many Forms](examples/horseman_of_many_Forms.gif)
 
@@ -56,5 +56,6 @@ Optional Custom Node (for GIF output)
     
 5.  Use the Video Combine node (if installed) to export as GIF or default save video for mp4.
     
+
 
 Notes are included directly in the workflow JSON for more details.
